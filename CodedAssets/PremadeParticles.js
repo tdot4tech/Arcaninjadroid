@@ -238,7 +238,7 @@ var throughTheStarFissure = {
     "colorVarToggle":false
     }
 
-var victory = {
+var victoryParticle = {
     "speed":253.4,
     "size":18,
     "angle":0,
